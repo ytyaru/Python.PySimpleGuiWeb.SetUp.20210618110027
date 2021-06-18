@@ -17,9 +17,6 @@ Build the environment of PySimpleGuiWeb.
 * bash 5.0.3(1)-release
 * Python 2.7.16
 * Python 3.7.3
-* [pyxel][] 1.3.1
-
-[pyxel]:https://github.com/kitao/pyxel
 
 ```sh
 $ uname -a
@@ -28,18 +25,10 @@ Linux raspberrypi 5.4.83-v7l+ #1379 SMP Mon Dec 14 13:11:54 GMT 2020 armv7l GNU/
 
 # Installation
 
-Install Python 3.7 or higher.
-
-Next, install [pyxel][] as follows.
-
-* [pyxel/README](https://github.com/kitao/pyxel/blob/master/README.md#how-to-install)
-
 ```sh
-sudo apt install python3 python3-pip libsdl2-dev libsdl2-image-dev
-git clone https://github.com/kitao/pyxel.git
-cd pyxel
-make -C pyxel/core clean all
-pip3 install .
+git clone https://github.com/ytyaru/Python.PySimpleGuiWeb.SetUp.20210618110027
+cd Python.PySimpleGuiWeb.SetUp.20210618110027/src
+./setup.sh
 ```
 
 # Usage
@@ -47,7 +36,7 @@ pip3 install .
 ```sh
 git clone https://github.com/ytyaru/Python.PySimpleGuiWeb.SetUp.20210618110027
 cd Python.PySimpleGuiWeb.SetUp.20210618110027/src
-./run.py
+./run.sh
 ```
 
 # Author
