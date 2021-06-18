@@ -6,13 +6,8 @@ Build the environment of PySimpleGuiWeb.
 
 # DEMO
 
-* [demo](https://ytyaru.github.io/Python.PySimpleGuiWeb.SetUp.20210618110027/)
-
-![img](https://github.com/ytyaru/Python.PySimpleGuiWeb.SetUp.20210618110027/blob/master/doc/0.png?raw=true)
-
-# Features
-
-* sales point
+![0](res/0.png)
+![1](res/1.png)
 
 # Requirement
 
@@ -54,10 +49,6 @@ git clone https://github.com/ytyaru/Python.PySimpleGuiWeb.SetUp.20210618110027
 cd Python.PySimpleGuiWeb.SetUp.20210618110027/src
 ./run.py
 ```
-
-# Note
-
-* important point
 
 # Author
 
